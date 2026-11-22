@@ -17,7 +17,7 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 ### What I found in the data, and what I did
 
 | Issue | What I did | Impact on week 46 |
-|---|---|---|
+|-1--|--2-|--3-|
 | | | |
 
 ### What Laura should know before this goes to the client
