@@ -1,4 +1,4 @@
-# Solution: <your name>
+# Solution: <Sudan Wu>
 
 Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is better than long.
 
@@ -7,7 +7,7 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 **How to run my code:**
 
 ```
-<one command>
+<Get-Content solution.sql | sqlite3 -header -csv kpi_local.db > output/weekly_kpi_2026-W46.csv>
 ```
 
 ---
