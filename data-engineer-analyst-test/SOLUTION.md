@@ -18,7 +18,7 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 
 | Issue | What I did | Impact on week 46 |
 |---|---|---|
-| The week number is wrong | FILTER BY DATE| |
+| The week number is wrong | Filter by date| Correct the number of visits and RSAs trained |
 
 ### What Laura should know before this goes to the client
 
