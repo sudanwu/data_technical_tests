@@ -76,4 +76,4 @@ Best regards,
 
 ## How I used AI (two or three lines)
 
-- 
+- AI helps me brainstorm how to structure my SQL queries when I get stuck, and it also helps me debug and fix SQL errors.
