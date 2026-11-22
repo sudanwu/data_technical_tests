@@ -26,11 +26,11 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 
 ### Laura's question about week 45
 
-- IN TABLE FIELD_VISITS, 2026-W46 RUNS FROM 2026-11-09 TO 2026-11-13, BUT WHAT IS NEEDED IS FROM 2026-11-08 TO 2026-11-14
+- IN TABLE FIELD_VISITS, 2026-W45 RUNS FROM 2026-10-31 TO 2026-11-6, BUT WHAT IS NEEDED IS FROM 2026-11-01 TO 2026-11-7
 
 ## Part 1B: Running it every Monday (a few bullets)
 
-- use two control flags: a send flag and a delay flag 
+- Use two control flags: a send flag and a delay flag 
 
 ## Part 2A: Reply to the client (150 words maximum)
 
