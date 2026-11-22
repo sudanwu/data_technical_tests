@@ -61,7 +61,10 @@ Best regards,
 
 **With 300 notes a week:**
 
--
+-If we received 300 notes per week, ensuring data reliability and scalability would require a combination of process controls, automation, and monitoring. I would focus on three key areas:
+1. Enforce structured data capture at the source
+2. Automate data quality checks during ingestion
+3. Automate note classification and prioritization
 
 ## Part 2C: Optional insight
 
@@ -73,4 +76,4 @@ Best regards,
 
 ## How I used AI (two or three lines)
 
--
+- 
