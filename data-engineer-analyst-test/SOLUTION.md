@@ -17,7 +17,7 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 ### What I found in the data, and what I did
 
 | Issue | What I did | Impact on week 46 |
-|-1--|--2-|--3-|
+|---|---|---|
 | | | |
 
 ### What Laura should know before this goes to the client
@@ -55,9 +55,9 @@ Best regards,
 
 | # | What the client should hear | Stores | Evidence (note IDs) |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | The table isn't well structured—many entries in the store_code column are missing data | GP Murcia | N20507,N20640, N20654,N20717 |
+| 2 | The text format isn't standardized—it should follow a consistent pattern across all entries, for example: "store: [explanation]". | Goya | N20542...|
+| 3 |  It would be good to add a column for the person in charge's ID (or "owner/assignee ID") |ALL | ALL|
 
 **With 300 notes a week:**
 
