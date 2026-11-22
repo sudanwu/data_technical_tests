@@ -18,7 +18,7 @@ Copy this file to `SOLUTION.md` and fill it in. Bullets are welcome. Short is be
 
 | Issue | What I did | Impact on week 46 |
 |---|---|---|
-| | | |
+| The week number is wrong | FILTER BY DATE| |
 
 ### What Laura should know before this goes to the client
 
